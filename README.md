@@ -14,7 +14,7 @@ npm install -g @angular/cli
 
 ### Usage 
 ```shell
-cd AngularTest
+cd Angular2Test
 run ng serve
 ```
 
