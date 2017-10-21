@@ -17,7 +17,7 @@ npm install -g @angular/cli
 cd Angular2Test
 run ng serve
 ```
-
+#
 And then navigate to http://localhost:4200/
 
 ![Death by Deadline](https://cdn.dribbble.com/users/60266/screenshots/3117166/deathbydeadline_shot.png)
