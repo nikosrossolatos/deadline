@@ -19,5 +19,7 @@ run ng serve
 ```
 
 And then navigate to http://localhost:4200/
-		
+
+git gud
+
 ![Death by Deadline](https://cdn.dribbble.com/users/60266/screenshots/3117166/deathbydeadline_shot.png)
