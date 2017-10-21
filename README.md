@@ -1,7 +1,7 @@
-# deadline - changing Title
+# deadline
 Task management tool with a twist
 
-## Angular2 - Thielpis
+## Angular2
  
 ### Prerequisites
 
@@ -21,3 +21,8 @@ run ng serve
 And then navigate to http://localhost:4200/
 
 ![Death by Deadline](https://cdn.dribbble.com/users/60266/screenshots/3117166/deathbydeadline_shot.png)
+
+
+1. Hello
+1. Hello
+1. YElo
