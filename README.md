@@ -1,7 +1,7 @@
 # deadline - changing Title
 Task management tool with a twist
 
-## Angular2
+## Angular2 - Thielpis
  
 ### Prerequisites
 
